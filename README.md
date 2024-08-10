@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @TerraWilking
-- 👀 I’m interested in dara science
-- 🌱 I’m currently learning machine learning and python
-- 💞️ I’m looking to collaborate on datasets
-- 📫 How to reach me IG
-- 😄 Pronouns: he,him
+- 👀 I’m into Tech
 - ⚡ Fun fact: im a notebender... i play the bass
 
 <!---
